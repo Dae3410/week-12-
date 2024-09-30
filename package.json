@@ -1,0 +1,16 @@
+{
+    "name": "week 12",
+    "version": "1.0.0",
+    "description": "airbnb clone",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"No tests specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "daivon",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {}
+  }
+  

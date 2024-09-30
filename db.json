@@ -1,0 +1,41 @@
+
+    {
+        "users": [
+            {
+                "id": "1",
+                "location": "New York",
+                "pic": "https://cdn11.bigcommerce.com/s-g95xg0y1db/images/stencil/1280x1280/g/modern%20house%20plan%20-%20carbondale__05776.original.jpg",
+                "pricePerDay": 200,
+                "isVerified": true
+            },
+            {
+                "id": "2",
+                "location": "Miami",
+                "pic": "https://www.tennessean.com/gcdn/presto/2019/10/11/PNAS/adf1101a-0f8c-404f-9df3-5837bf387dfd-1_Exterior_House_Beautiful_Whole_Home_Concept_House_Castle_Homes_Photo_Reed_Brown_Photography.jpg?crop=5619,3161,x0,y104&width=3200&height=1801&format=pjpg&auto=webp",
+                "pricePerDay": 138,
+                "isVerified": true
+            },
+            {
+                "id": "3",
+                "location": "Las Vegas",
+                "pic": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/image_h_01-H-2023.jpg?w=1296&h=730&crop=1",
+                "pricePerDay": 300,
+                "isVerified": true
+            },
+            {
+                "id": "4",
+                "location": "Denver",
+                "pic": "https://www.thehousedesigners.com/images/plans/01/URD/bulk/6583/the-destination-front-rendering_m.webp",
+                "pricePerDay": 185,
+                "isVerified": true
+            },
+            {
+                "id": "5",
+                "location": "Los Angeles",
+                "pic": "https://postandporch.com/cdn/shop/articles/AdobeStock_209124760.jpg?v=1662575433&width=1440",
+                "pricePerDay": 500,
+                "isVerified": true
+            }
+        ]
+    }
+    
